@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Software Testin",
+      "author": "Wayne Sinclair"
+    },
+    {
+      "id": 3,
+      "title": "Software Testin",
+      "author": "Wayne Sinclair"
+    },
+    {
+      "id": 4,
+      "title": "Software Testing",
+      "author": "Wayne Sinclair"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "body": "Ayanda's comment",
+      "postId": "1",
+      "id": 2
+    },
+    {
+      "body": "Ayanda's comment",
+      "postId": "1",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "body": "AC/DC - Mlungisi",
+      "postId": "1",
+      "id": 11
+    },
+    {
+      "body": "AC/DC - Mlungisi",
+      "postId": "1",
+      "id": 12
+    },
+    {
+      "body": "AC/DC - For Those About To Rock We Salute You",
+      "postId": "1",
+      "id": 13
+    },
+    {
+      "body": "AC/DC - Let There Be Rock",
+      "postId": "1",
+      "id": 14
+    },
+    {
+      "body": "AC/DC - For Those About To Rock We Salute You",
+      "postId": "1",
+      "id": 15
+    },
+    {
+      "body": "AC/DC - Let There Be Rock",
+      "postId": "1",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "body": "AC/DC - For Those About To Rock We Salute You",
+      "postId": "1",
+      "id": 18
+    },
+    {
+      "body": "AC/DC - Let There Be Rock",
+      "postId": "1",
+      "id": 19
+    },
+    {
+      "body": "AC/DC - For Those About To Rock We Salute You",
+      "postId": "1",
+      "id": 20
+    },
+    {
+      "body": "AC/DC - Let There Be Rock",
+      "postId": "1",
+      "id": 21
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
